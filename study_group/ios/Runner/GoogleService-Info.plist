@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>421401808624-2vonojc7n54r6c23eup9f6nmodf80ror.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.421401808624-2vonojc7n54r6c23eup9f6nmodf80ror</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>421401808624-f905uut72bka8ubkjj12646jkfbtoiva.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7359svKkY4IRi6UA6D2rcAuQUI0Zhs8c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>421401808624</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.studygroup</string>
+	<key>PROJECT_ID</key>
+	<string>hospital-staff-management</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hospital-staff-management.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:421401808624:ios:8d25e8e001976907853c35</string>
+</dict>
+</plist>

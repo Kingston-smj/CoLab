@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "421401808624",
+    "project_id": "hospital-staff-management",
+    "storage_bucket": "hospital-staff-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421401808624:android:23caad68289f22da853c35",
+        "android_client_info": {
+          "package_name": "com.mycompany.crmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421401808624-vk25v91l9fj05e0f3g02p278e3sl3v5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRRrio5O0LrahaxGhIzN1XlClyfvxC86A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421401808624-vk25v91l9fj05e0f3g02p278e3sl3v5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421401808624-2ud3nrg9nt3msuq524u9b1b2o68adaag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hospitalstaffmangement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421401808624:android:388310a76712c5d0853c35",
+        "android_client_info": {
+          "package_name": "com.mycompany.hospitalstaffmangement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421401808624-f905uut72bka8ubkjj12646jkfbtoiva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hospitalstaffmangement",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "421401808624-vk25v91l9fj05e0f3g02p278e3sl3v5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRRrio5O0LrahaxGhIzN1XlClyfvxC86A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421401808624-vk25v91l9fj05e0f3g02p278e3sl3v5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421401808624-2ud3nrg9nt3msuq524u9b1b2o68adaag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hospitalstaffmangement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421401808624:android:8356b46330972ea2853c35",
+        "android_client_info": {
+          "package_name": "com.mycompany.studygroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421401808624-tlqt5dkdso4g1ecjt5eg9lf78tsfa8k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.studygroup",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "421401808624-vk25v91l9fj05e0f3g02p278e3sl3v5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRRrio5O0LrahaxGhIzN1XlClyfvxC86A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421401808624-vk25v91l9fj05e0f3g02p278e3sl3v5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421401808624-2ud3nrg9nt3msuq524u9b1b2o68adaag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hospitalstaffmangement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421401808624:android:6c9b242ecd4d95cd853c35",
+        "android_client_info": {
+          "package_name": "com.mycompany.vibest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421401808624-q1baoefpi249cphvbku5g3125di69ako.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.vibest",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "421401808624-vk25v91l9fj05e0f3g02p278e3sl3v5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRRrio5O0LrahaxGhIzN1XlClyfvxC86A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421401808624-vk25v91l9fj05e0f3g02p278e3sl3v5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421401808624-2ud3nrg9nt3msuq524u9b1b2o68adaag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hospitalstaffmangement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
